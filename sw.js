@@ -1,6 +1,6 @@
 // ENSOUL POS — เก็บหน้าเปิดแอปไว้ในเครื่อง เพื่อให้กดไอคอนแล้วเปิดได้ทันที และขึ้นข้อความเมื่อไม่มีอินเทอร์เน็ต
 // ข้อมูลขายทั้งหมดยังส่งตรงไป Google Sheet ไม่ได้เก็บไว้ที่นี่
-var CACHE = 'ensoul-shell-v1';
+var CACHE = 'ensoul-app-v2';
 var SHELL = ['./', './index.html', './config.js', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png', './icons/favicon-32.png'];
 
